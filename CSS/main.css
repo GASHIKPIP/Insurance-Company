@@ -1,0 +1,470 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1, h2, h3, p, li {
+	font-family: 'Work Sans', sans-serif;
+}
+
+header {
+	height: 1050px;
+	background: url(../img/obl.jpg);
+	background-position: top;
+	background-size: cover;
+}
+
+body {
+	background: black;
+}
+
+.f_block {
+	max-width: 1400px;
+	margin: auto;
+}
+
+.menu_svg {
+	width: 60px;
+}
+
+.lupa {
+	width: 30px;
+}
+
+.menu {
+	border: 1px solid white;
+	height: 80px;
+}
+
+.search {
+	justify-content: space-between;
+	margin: auto;
+	max-width: 1300px;
+	display: flex;
+	padding: 5px 30px 0 30px;
+	margin-top: 13px;
+}
+
+.search_h2 {
+	padding: 6px;
+	justify-content: space-between;
+	width: 150px;
+	display: flex;
+	border: 1px solid white;
+	color: white;
+	font-size: 25px;
+}
+
+.f_block {
+	margin-top: 600px;
+}
+
+.f_block_p {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+.f_block_pp {
+	margin-top: 20px;
+	line-height: 1.5;
+	text-align: center;
+	color: white;
+	font-size: 17px;
+}
+
+.f_block_h3 {
+	margin-top: 20px;
+	line-height: 1.5;
+	text-align: center;
+	color: white;
+	font-size: 17px;
+}
+
+.right {
+	margin-top: 20px;
+	width: 60px;
+}
+
+.s_block {
+	max-width: 1400px;
+	margin: auto;
+	padding-top: 160px;
+}
+
+.s_block_h1 {
+	color: white;
+	text-align: center;
+	font-size: 45px;
+}
+
+.s_block_p {
+	font-size: 20px;
+	color: white;
+	margin-top: 40px;
+	text-align: center;
+}
+
+.s_block_cards {
+	padding-top: 60px;
+	max-width: 1300px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+.icon {
+	width: 100px;
+}
+
+.card_h1 {
+	text-align: center;
+	margin-top: 20px;
+	color: white;
+	font-size: 20px;
+}
+
+.card_p {
+	color: #8991a5;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.card_button {
+	font-weight: bold;
+	font-size: 18px;
+	color: #E58527;
+	margin-top: 20px;
+	background-color: transparent;
+	border: 2px solid #E58527;
+	border-radius: 40px;
+	width: 170px;
+	height: 50px;
+}
+
+.car_burron_h2 {
+	color: #E58527;
+}
+
+.card_button:hover {
+	color: white;
+	background-color: #E58527;
+}
+
+.car_burrun_h2:hover {
+	color: white;
+}
+
+.t_block {
+	padding-top: 200px;
+	max-width: 1400px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+.l_text_h1 {
+	margin-top: 40px;
+	font-size: 40px; 
+	color: white;
+}
+
+.l_text_p {
+	color: white;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+.l_text {
+	width: 650px;
+}
+
+.r_text {
+	width: 650px;
+	background: #E58527;
+}
+
+.r_text_h2 {
+	margin-top: 100px;
+	padding-left: 20px;
+	font-size: 25px;
+	color: white;
+}
+
+ol {
+	padding-left: 40px;
+}
+
+li {
+	color: white;
+	font-size: 18px;
+	line-height: 1.4;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.fo_block {
+	max-width: 1400px;
+}
+
+.photo_card {
+	padding-top: 20px;
+	max-width: 1400px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+.card {
+	width: 430px;
+}
+
+.fif_block_h1 {
+	margin-top: 160px;
+	color: white;
+	font-size: 60px;
+	font-weight: bold;
+	padding-bottom: 160px;
+}
+
+.six_block_h2 {
+	color: white;
+	font-size: 50px;
+	text-align: right;
+}
+
+span {
+	color: #E58527;
+}
+
+.seven_block {
+	padding-top: 120px;
+}
+
+.content {
+	display: flex;
+	justify-content: space-between;
+}
+
+.text {
+	margin-right: 100px;
+}
+
+.image {
+	margin-top: 60px;
+	height: 800px;
+	width: 600px;
+	background-color: black;
+}
+
+.f_p {
+	font-size: 50px;
+	color: white;
+}
+
+.content_p {
+	margin-top: 100px;
+}
+
+.cars {
+	margin-top: 100px;
+	width: 550px;
+	padding-left: 25px;
+}
+
+.span_p {
+	line-height: 1.5;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	font-size: 25px;
+	text-decoration: underline;
+	color: white;
+}
+
+.grey_p {
+	line-height: 1.5;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #E58527;
+	margin-bottom: 40px;
+	color: white;
+}
+
+.p_in_grey {
+	padding: 10px;
+}
+
+.teh-con {
+	max-width: 1400px;
+	margin: auto;
+}
+
+.prosto_p {
+	color: white;
+	line-height: 1.5;
+	font-size: 17px;
+}
+
+.eight_block {
+	max-width: 1400px;
+}
+
+.eight_block_h1 {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+.wight_block_p {
+	margin-top: 20px;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+}
+
+._block {
+	cursor: pointer;
+	padding: 20px 10px 20px 10px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+.black_box_1 {
+	background: black;
+	height: 100px;
+}
+
+.black_box {
+	height: 40px;
+}
+
+._block:hover {
+	background: #E58527;
+}
+
+.line {
+	background-color: grey;
+	height: 2px;
+	width: 1400px;
+}
+
+.arrow {
+	width: 25px;
+}
+
+.fd_block_h2 {
+	color: white;
+	font-size: 25px;
+}
+
+._block_1 {
+	background: #E58527;
+	cursor: pointer;
+	padding: 20px 10px 20px 10px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+._block_1_disc {
+	color: white;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: left;
+	margin-left: 85px;
+}
+
+.lambo {
+	width: 900px;
+}
+
+.nine_block {
+	padding-top: 160px;
+	min-width: 1440px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+}
+
+.nine_block_h1 {
+	font-size: 40px;
+	margin-top: 120px;
+	color: white;
+	text-align: right;
+}
+
+.f_input {
+	margin-bottom: 20px;
+	font-size: 20px;
+	background-color: transparent;
+	width: 650px;
+	height: 70px;
+	border: none;
+	border-bottom: 1px solid white;
+}
+
+.ten_block_p {
+	line-height: 1.4;
+	font-size: 20px;
+	color: white;
+	margin-bottom: 20px;
+}
+
+.ten_block {
+	display: flex;
+}
+
+.ten_block_h1 {
+	font-size: 45px;
+	color: white;
+	margin-bottom: 20px;
+}
+
+.text {
+	width: 700px;
+}
+
+.form {
+	width: 700px;
+}
+
+.s_input {
+	margin-bottom: 20px;
+	font-size: 20px;
+	background-color: transparent;
+	width: 650px;
+	height: 110px;
+	border: none;
+	border-bottom: 1px solid white;
+}
+
+.submit {
+	font-weight: bold;
+	font-size: 18px;
+	color: #E58527;
+	margin-top: 10px;
+	background-color: transparent;
+	border: 2px solid #E58527;
+	border-radius: 40px;
+	width: 100px;
+	height: 50px;
+	cursor: pointer;
+}
+
+.submit:hover {
+	background-color: #E58527;
+	color: white;
+}
+
+.soc_sets {
+	display: flex;
+	justify-content: space-around;
+	width: 100px;
+	margin-top: 15px;
+}
+
+.seti {
+	width: 20px;
+}
